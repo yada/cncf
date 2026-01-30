@@ -1,7 +1,7 @@
 # General Technical Review - Microcks / Incubation
 
 - **Project:** Microcks
-- **Project Version:** v1.x (current stable release)
+- **Project Version:** v1.13.2
 - **Website:** https://microcks.io
 - **Date Updated:** 2026-01-30
 - **Template Version:** v1.0

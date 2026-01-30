@@ -233,5 +233,5 @@ Documentation reference:
 Documentation reference:  
 <https://github.com/microcks/microcks/blob/master/TESTED_CONFIGURATIONS.md>
 
-WIP as a community effort (adopters contribution):
+WIP as a community effort (adopters contribution):  
 <https://github.com/microcks/community/blob/main/install/COMPATIBILITY-MATRIX.md>
